@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there I'm Ersin 👋
 
-<!--
+🌱I am currently learning all about data science...
+🔭I'm currently in data science school.-VBO-
+⚡I love researching and coding.
+
 **ErsinDatascientist/ErsinDatascientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
